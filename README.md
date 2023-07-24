@@ -1,6 +1,6 @@
 # Car-Dealer-Django
 
-# In Terminal window.
+# In Terminal window  (Before all of these follow Project Info.txt file steps)
 # Step1-> cd filepath.
 # Step2-> create virtual environment (eg->python -m venv cars).
 # Step3-> activate virtual environment (eg->cars\Scripts\activate).
